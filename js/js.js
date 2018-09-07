@@ -4,6 +4,7 @@
 //xhr.done(function(data) { console.log("success got data", data); });
 
 $(document).ready(function() {
+    
     $("#skeleton").on("click", function() {
         console.log("work omg")
     })
