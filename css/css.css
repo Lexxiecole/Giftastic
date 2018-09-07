@@ -1,9 +1,13 @@
 .jumbotron-fluid {
-    background-color: navy;
+    background-color:#05375f;
     color: white;
     font-family: arial;
-    font-size: 30px;
-    height: 200px;
+    height: 150px;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 20px;
+    padding: 40px;
 }
 
-#
