@@ -5,9 +5,32 @@
     height: 150px;
 }
 h1 {
-    font-size: 60px;
+    font-size: 100px;
     text-align: center;
     margin: 20px;
-    padding: 40px;
+    padding: 15px;
+    font-family: 'Cinzel', serif;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+font-family: 'Noto Serif JP', sans-serif;
+font-family: 'Cinzel', serif;
+font-family: 'Alegreya', serif;
+font-family: 'Limelight', cursive;
