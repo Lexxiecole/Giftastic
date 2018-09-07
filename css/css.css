@@ -1,9 +1,10 @@
 .jumbotron-fluid {
-    background-color:#05375f;
-    color: white;
+    background: color #222233;
+    color: #c3d5db;
     font-family: arial;
     height: 150px;
 }
+
 h1 {
     font-size: 100px;
     text-align: center;
@@ -12,6 +13,9 @@ h1 {
     font-family: 'Cinzel', serif;
 }
 
+#background {
+    color: #8bbca7;
+}
 
 
 
@@ -20,14 +24,12 @@ h1 {
 
 
 
-
-
-
-
-
-
-
-
+/* color schemes!
+#236a8b
+#799fba
+#8bbca7
+#131925
+#c3d5db 
 
 /*
 font-family: 'Noto Serif JP', sans-serif;
