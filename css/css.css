@@ -1,9 +1,9 @@
-#header {
+.jumbotron-fluid {
     background-color: navy;
-    font-display: white;
+    color: white;
     font-family: arial;
     font-size: 30px;
-    height: 40px;
+    height: 200px;
 }
 
 #
