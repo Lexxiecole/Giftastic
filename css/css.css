@@ -29,49 +29,68 @@ h1 {
     font-family: 'Noto Serif JP', sans-serif;
 }
 
-.Boat {
+#boat {
     color: #8bbca7;
     font-family: 'Noto Serif JP', sans-serif;
 }
 
-.Aye {
+#celebrate {
     color: #8bbca7;
     font-family: 'Noto Serif JP', sans-serif;
 }
 
-.Travel {
+#travel {
     color: #8bbca7;
     font-family: 'Noto Serif JP', sans-serif;
 }
 
-.Sunday {
+#sunday {
     color: #8bbca7;
     font-family: 'Noto Serif JP', sans-serif;
 }
 
-.Birthday {
+#birthday {
     color: #8bbca7;
     font-family: 'Noto Serif JP', sans-serif;
 }
 
-.Laugh {
+#laugh {
     color: #8bbca7;
     font-family: 'Noto Serif JP', sans-serif;
 }
 
-.Smile {
+#smile {
     color: #8bbca7;
     font-family: 'Noto Serif JP', sans-serif;
 }
 
-.Explore {
+#explore {
     color: #8bbca7;
     font-family: 'Noto Serif JP', sans-serif;
 }
 
-.Sun {
+#sun {
     color: #8bbca7;
     font-family: 'Noto Serif JP', sans-serif;
+}
+
+
+/* form */
+
+.form {
+    text-align: center;
+    font-family: 'Noto Serif JP', sans-serif;
+    size: 5px;
+    color: #236a8b;
+}
+
+#formInput {
+    color: #236a8b;
+}
+
+#search {
+    font-family: 'Noto Serif JP', sans-serif;
+    color: #236a8b;
 }
 
 
